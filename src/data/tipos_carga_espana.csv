@@ -1,0 +1,9 @@
+Tipo,Potencia,Caracteristicas,Tiempo_carga_aproximado,Ubicacion_tipica
+Lenta (Modo 2),2.3 - 7.4 kW,"- Utiliza corriente alterna (AC)
+- Requiere cable con dispositivo de control",6-12 horas (batería completa),"Hogares, lugares de trabajo"
+Semi-rápida (Modo 3),11 - 22 kW,"- Utiliza corriente alterna (AC)
+- Requiere un punto de recarga específico",2-6 horas (batería completa),"Centros comerciales, parkings públicos"
+Rápida (Modo 4 - DC),50 kW,"- Utiliza corriente continua (DC)
+- Carga directamente la batería del vehículo",30-60 minutos (80% de la batería),"Estaciones de servicio, áreas de descanso en carreteras"
+Ultra-rápida (Modo 4 - DC),100 - 350 kW,"- Utiliza corriente continua (DC)
+- Requiere vehículos compatibles con alta potencia",15-30 minutos (80% de la batería),Estaciones específicas en rutas principales
