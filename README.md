@@ -47,8 +47,6 @@ Fecha: 10-11-2024
 <br>
 
 ## 📈 Visualización de Datos
-## Gráficos y mapas en el proyecto incluyen:
-
 ### Evolución de Vehículos Eléctricos por Año: 
 + Línea temporal que muestra el incremento anual.
 ### Comparativa Internacional de BEV: 
